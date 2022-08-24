@@ -6,6 +6,20 @@ Projeto LabeFoods
 
 # `Descrição`
 O Projeto LabeFoods foi desenvolvido como projeto final de Front End dentro do curso Full-Stack Web Developer da Labenu, o qual consiste em requisições (via axios) para a API labeFoods, que contém informações relacionadas ao desenvolvimento de uma aplicação que simula um aplicativo semelhante ao conhecido app iFood. Este projeto foi baseado no layout layout FutureEats. </br>
+Neste projeto foi utilizado o conceito de "Mobile Firts", onde o projeto foi desenvolvido pensando primeiramente na utilização por aparelhos celulares. </br>
+As requisições para a API utilizadas neste projeto foram: </br>
+**[POST] Login**: </br>
+**[POST] Signup**: </br>
+**[PUT] Add Adress**: </br>
+**[GET] Get Full Address**: </br>
+**[GET] Get Profile**: </br>
+**[PUT] Update Profile**: </br>
+**[GET] Get Restaurants**: </br>
+**[GET] Get Restaurant Detail**: </br>
+**[POST] Place Order**: </br>
+**[GET] Get Active Order**: </br>
+**[GET] Orders History**: </br>
+
 A documentação da API pode ser encontrada [aqui](https://documenter.getpostman.com/view/7549981/SWTEdGtT).
 
 # `Modo de usar`
