@@ -8,17 +8,17 @@ Projeto LabeFoods
 O Projeto LabeFoods foi desenvolvido como projeto final de Front End dentro do curso Full-Stack Web Developer da Labenu, o qual consiste em requisições (via axios) para a API labeFoods, que contém informações relacionadas ao desenvolvimento de uma aplicação que simula um aplicativo semelhante ao conhecido app iFood. Este projeto foi baseado no layout layout FutureEats. </br>
 Neste projeto foi utilizado o conceito de "Mobile Firts", onde o projeto foi desenvolvido pensando primeiramente na utilização por aparelhos celulares. </br>
 As requisições para a API utilizadas neste projeto foram: </br>
-**[POST] Login**: </br>
-**[POST] Signup**: </br>
-**[PUT] Add Adress**: </br>
-**[GET] Get Full Address**: </br>
-**[GET] Get Profile**: </br>
-**[PUT] Update Profile**: </br>
-**[GET] Get Restaurants**: </br>
-**[GET] Get Restaurant Detail**: </br>
-**[POST] Place Order**: </br>
-**[GET] Get Active Order**: </br>
-**[GET] Orders History**: </br>
+**[POST] Login**: endpoint utilizado para fazer login de usuário já cadastrado. </br>
+**[POST] Signup**: endpoint utilizado para fazer o cadastro de novos usuários. </br>
+**[PUT] Add Adress**: endpoint utilizado para realizar o cadastro ou a edição do endereço de um usuário. </br>
+**[GET] Get Full Address**: endpoint utilizado para retornar as informações separados do endereço do usuário. </br>
+**[GET] Get Profile**: endpoint utilizado para retonar as informações do usuário. </br>
+**[PUT] Update Profile**: endpoint utilizado para atualizar as informações de um usuário. </br>
+**[GET] Get Restaurants**: endpoint que retorna uma lista de todos os restaurantes. </br>
+**[GET] Get Restaurant Detail**: endpoint que retorna os detalhes de um restaurante e uma lista de produtos deste. </br>
+**[POST] Place Order**: endpoint utilizado para realizar um pedido, recebendo um array de produtos e método de pagamento. </br>
+**[GET] Get Active Order**: endpoint que retorna o pedido ativo do usuário. </br>
+**[GET] Orders History**: endpoint utilizado para retornar uma lista de todos os pedidos que foram finalizados. </br>
 
 A documentação da API pode ser encontrada [aqui](https://documenter.getpostman.com/view/7549981/SWTEdGtT).
 
