@@ -11,7 +11,7 @@ A documentação da API pode ser encontrada [aqui](https://documenter.getpostman
 # `Modo de usar`
 Ao iniciar a aplicação o usuário é direcionado para a tela de Login. Nesta tela, o usuário pode efetuar seu login ou então se inscrever na plataforma, criando um usuário com nome, email, senha e dados de endereço.
 </br>
-Após efetuar login, o usuário é redirecionado para a página de feed, onde poderá escolher entre diferentes tipos de restaurantes, podendo filtrar por palavras chave (utilizando para o tal o campo de buscas) ou por tipos de comidas, na barra superior. Dentre as opções estão por exemplo comida Asiática, Hamburgueres, Italiana, Sorvetes entre outras.
+Após efetuar login, o usuário é redirecionado para a página de feed, onde poderá escolher entre diferentes tipos de restaurantes, podendo filtrar por palavras chave (utilizando para o tal o campo de buscas) ou por tipos de comidas, na barra superior. Dentre as opções estão, por exemplo, comida Asiática, Hamburgueres, Italiana, Sorvetes entre outras.
 </br>
 Clicando sobre a imagem de um restaurante no feed, o usuário é redicionado para a página de detalhes. É mostrada a imagem do restaurante e algumas informações, como por exemplo o endereço. Abaixo são listados todos os produtos oferecidos pelo estabelecimento, com informações de nome, descrição e preço. Ao clicar em "adicionar" é aberta uma janela para a escolha da quantidade. Após adicionar ao carrinho, o ícone passa a exibir o texto "remover" e na parte superior do card aparece a quantidade deste ítem que está inserida no carrinho.
 </br>
