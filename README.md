@@ -1,5 +1,5 @@
 # `Projeto`
-Projeto LabeFoods
+LabeFoods
 
 # `Link`
 [Clique aqui!](https://labefoods-alves5.surge.sh)
@@ -65,6 +65,7 @@ Márleo Piber da Rosa </br>
 Olavo Marques do Nascimento
 
 # `Imagens`
+
 ### Página Login
 <img src="./future-eats-b/src/assets/img_readme/login.png"/>
 
